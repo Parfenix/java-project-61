@@ -14,3 +14,8 @@
 [![asciicast](https://asciinema.org/a/8QhcKyNY6MVWvqBJztZwVwzsi.svg)](https://asciinema.org/a/8QhcKyNY6MVWvqBJztZwVwzsi)
 ### defeat
 [![asciicast](https://asciinema.org/a/hFFrp5dhNBDXitTS4YU1by0NH.svg)](https://asciinema.org/a/hFFrp5dhNBDXitTS4YU1by0NH)
+## Game 3: "GCD"
+### victory
+[![asciicast](https://asciinema.org/a/3fg1xkzEtFRU8bPTzK1W2yV04.svg)](https://asciinema.org/a/3fg1xkzEtFRU8bPTzK1W2yV04)
+### defeat
+[![asciicast](https://asciinema.org/a/i8UVmFNtkcf1KYkO763j2s7cg.svg)](https://asciinema.org/a/i8UVmFNtkcf1KYkO763j2s7cg)
