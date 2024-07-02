@@ -19,3 +19,8 @@
 [![asciicast](https://asciinema.org/a/3fg1xkzEtFRU8bPTzK1W2yV04.svg)](https://asciinema.org/a/3fg1xkzEtFRU8bPTzK1W2yV04)
 ### defeat
 [![asciicast](https://asciinema.org/a/i8UVmFNtkcf1KYkO763j2s7cg.svg)](https://asciinema.org/a/i8UVmFNtkcf1KYkO763j2s7cg)
+## Game 4: "Progression"
+### victory
+[![asciicast](https://asciinema.org/a/L3tudGBvGXJQz8Qgbbbp3LPBu.svg)](https://asciinema.org/a/L3tudGBvGXJQz8Qgbbbp3LPBu)
+### defeat
+[![asciicast](https://asciinema.org/a/2p3hjFEpe05Ps5jqcE3W3yrnU.svg)](https://asciinema.org/a/2p3hjFEpe05Ps5jqcE3W3yrnU)
