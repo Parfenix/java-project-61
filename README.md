@@ -4,6 +4,7 @@
 [![Actions Status](https://github.com/Parfenix/java-project-61/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Parfenix/java-project-61/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9537e382a24c57c90029/maintainability)](https://codeclimate.com/github/Parfenix/java-project-61/maintainability)
 
+Brain Games is a collection of interactive math and logic games that can be played from the command line.
 ## Game 1: "Checking the parity of a number"
 ### victory
 [![asciicast](https://asciinema.org/a/kqEzBz4lGtlrss9V3tDQKthuv.svg)](https://asciinema.org/a/kqEzBz4lGtlrss9V3tDQKthuv)
@@ -29,3 +30,23 @@
 [![asciicast](https://asciinema.org/a/oM7FsBf3cBAWiVQUdO5rUelKc.svg)](https://asciinema.org/a/oM7FsBf3cBAWiVQUdO5rUelKc)
 ### defeat
 [![asciicast](https://asciinema.org/a/TxO2BRwV4c5Z3oTlB0FU5mqT3.svg)](https://asciinema.org/a/TxO2BRwV4c5Z3oTlB0FU5mqT3)
+
+## Installation
+
+Ensure you have Java and Gradle installed on your system. Then, clone the repository and build the project:
+
+```sh
+git clone git@github.com:Parfenix/java-project-61.git
+./gradlew clean installDist
+```
+## Usage
+
+Run the application using the following command:
+
+```sh
+make run-dist
+```
+
+Follow the prompts to select and play a game.
+
+
