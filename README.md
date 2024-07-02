@@ -24,3 +24,8 @@
 [![asciicast](https://asciinema.org/a/L3tudGBvGXJQz8Qgbbbp3LPBu.svg)](https://asciinema.org/a/L3tudGBvGXJQz8Qgbbbp3LPBu)
 ### defeat
 [![asciicast](https://asciinema.org/a/2p3hjFEpe05Ps5jqcE3W3yrnU.svg)](https://asciinema.org/a/2p3hjFEpe05Ps5jqcE3W3yrnU)
+## Game 5: "Prime"
+### victory
+[![asciicast](https://asciinema.org/a/oM7FsBf3cBAWiVQUdO5rUelKc.svg)](https://asciinema.org/a/oM7FsBf3cBAWiVQUdO5rUelKc)
+### defeat
+[![asciicast](https://asciinema.org/a/TxO2BRwV4c5Z3oTlB0FU5mqT3.svg)](https://asciinema.org/a/TxO2BRwV4c5Z3oTlB0FU5mqT3)
