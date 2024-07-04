@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Engine {
     public static final int ROUNDS_COUNT = 3;
+    public static final int NUMBER_LIMIT = 100;
+    public static final int PROGRESSION_LIMIT = 10;
 
     public static void runGame(String gameDescription, String[][] roundsData) {
         Scanner scanner = new Scanner(System.in);

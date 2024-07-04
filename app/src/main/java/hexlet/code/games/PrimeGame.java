@@ -10,10 +10,9 @@ public class PrimeGame {
     public static void start() {
         String[][] roundsData = new String[Engine.ROUNDS_COUNT][2];
         Random random = new Random();
-        int limit = 100;
 
         for (int i = 0; i < Engine.ROUNDS_COUNT; i++) {
-            int number = random.nextInt(limit) + 1;
+            int number = random.nextInt(Engine.NUMBER_LIMIT) + 1;
             String question = String.valueOf(number);
             String answer = isPrime(number) ? "yes" : "no";
 

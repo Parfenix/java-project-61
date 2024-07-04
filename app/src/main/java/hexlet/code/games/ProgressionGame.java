@@ -11,13 +11,11 @@ public class ProgressionGame {
     public static void start() {
         String[][] roundsData = new String[Engine.ROUNDS_COUNT][2];
         Random random = new Random();
-        int numberLimit = 100;
-        int progressionLimit = 10;
 
         for (int i = 0; i < Engine.ROUNDS_COUNT; i++) {
             int progressionLength = random.nextInt(MAX_LENGTH - MIN_LENGTH + 1) + MIN_LENGTH;
-            int start = random.nextInt(numberLimit);
-            int step = random.nextInt(progressionLimit) + 1;
+            int start = random.nextInt(Engine.NUMBER_LIMIT);
+            int step = random.nextInt(Engine.PROGRESSION_LIMIT) + 1;
             int hiddenIndex = random.nextInt(progressionLength);
 
             int[] progression = generateProgression(start, step, progressionLength);

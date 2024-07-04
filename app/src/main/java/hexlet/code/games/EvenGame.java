@@ -15,11 +15,10 @@ public class EvenGame {
         System.out.println("Answer 'yes' if the number is even, otherwise answer 'no'.");
 
         Random random = new Random();
-        int limit = 100;
         int round = 0;
 
         while (round < Engine.ROUNDS_COUNT) {
-            int number = random.nextInt(limit);
+            int number = random.nextInt(Engine.NUMBER_LIMIT);
             System.out.println("Question: " + number);
             System.out.print("Your answer: ");
             String answer = scanner.nextLine();
