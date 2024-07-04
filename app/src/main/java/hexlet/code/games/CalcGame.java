@@ -11,10 +11,11 @@ public class CalcGame {
     public static void start() throws IllegalAccessException {
         String[][] roundsData = new String[Engine.ROUNDS_COUNT][2];
         Random random = new Random();
+        int limit = 100;
 
         for (int i = 0; i < Engine.ROUNDS_COUNT; i++) {
-            int num1 = random.nextInt(100);
-            int num2 = random.nextInt(100);
+            int num1 = random.nextInt(limit);
+            int num2 = random.nextInt(limit);
             char operator = OPERATORS[random.nextInt(OPERATORS.length)];
 
             String question = num1 + " " + operator + " " + num2;

@@ -9,10 +9,11 @@ public class GcdGame {
     public static void start() {
         String[][] roundsData = new String[Engine.ROUNDS_COUNT][2];
         Random random = new Random();
+        int limit = 100;
 
         for (int i = 0; i < Engine.ROUNDS_COUNT; i++) {
-            int num1 = random.nextInt(100) + 1;
-            int num2 = random.nextInt(100) + 1;
+            int num1 = random.nextInt(limit) + 1;
+            int num2 = random.nextInt(limit) + 1;
 
             String question = num1 + " " + num2;
             String answer = String.valueOf(gcd(num1, num2));
